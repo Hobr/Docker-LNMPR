@@ -16,8 +16,6 @@ chmod -R 777 ./redis/data
 docker-compose up -d
 ```
 
-站点根目录为 ./Docker-LNMPR/www
-
 ## PHP扩展安装
 
 ### 安装PHP官方源码包里的扩展
